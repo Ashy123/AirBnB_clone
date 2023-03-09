@@ -1,2 +1,2 @@
-AirBnB clone - The console
+AirBnB clone - The console by
 Alvin and Ashley
